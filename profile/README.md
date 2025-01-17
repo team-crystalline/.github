@@ -1,4 +1,5 @@
-## Hi there 👋
+## Team Crystalline 💎
+A group of people who want to make stuff together with the understanding that the stuff we make is not for profit. 
 
 <!--
 
