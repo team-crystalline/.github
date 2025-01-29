@@ -5,7 +5,7 @@ A group of people who want to make stuff together with the understanding that th
 ### Lighthouse 2.0 <img src="https://file.garden/ZVTc18PdJFNCIggU/lighthouse-logo.png" height="16px">
 An open source rewrite of [Lighthouse](https://www.writelighthouse.com). This new version will be a Vite + React app.
 
-### Sonic Shift <img src="https://file.garden/ZVTc18PdJFNCIggU/sonic-shift.png" height="16px">
+### Sonic Fan Game <img src="https://file.garden/ZVTc18PdJFNCIggU/sonic-shift.png" height="16px">
 An open source Sonic fan game in Godot. 
 
 ## Contributing
